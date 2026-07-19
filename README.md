@@ -40,6 +40,5 @@ proyecto-ia-grupo05/
 ├── prompts/                  # Registro y documentación de la ingeniería de prompts (Informes 1 al 6)
 ├── informes/                 # Entregables finales y reportes técnicos en formato PDF (Bloque A)
 └── exposición/               # Material de sustentación, video explicativo y datos de la presentación
-    ├── video_exposicion_grupal.mp4
     ├── enlace_video.txt
     └── orden_participacion.txt
