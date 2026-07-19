@@ -12,7 +12,7 @@ A continuación se detalla la organización de las carpetas del proyecto para fa
 ## 📁 Java/
 Esta carpeta centraliza el código fuente desarrollado en Java correspondiente a los informes teóricos del Bloque A. Está subdividida en dos proyectos específicos:
 informe1_busqueda/: Contiene la implementación en Java de los algoritmos de búsqueda y las estructuras de datos necesarias para resolver los estados del rompecabezas 8-puzzle.
-informe2_juegos/: Aloja el código del motor de juego para Tic-Tac-Toe (Tres en raya) utilizando el algoritmo MinMax, incluyendo la versión base y la optimización con poda alfa-beta para evaluar la eficiencia de corte de estados.
+informe2_juegos/: Aloja el código del motor de juego para Tic-Tac-Toe (Tres en raya) utilizando el algoritmo MinMax, incluyendo la versión base y la optimización con poda alfa-beta para evaluar la eficiencia de corte de estados. Nota: se uso Intelllij Idea para correr el programa, se recomienda usar este IDE con el JDK por defecto ya que es en el que el sistema se ha probado, para correr el archivo solo es necesario correrlo desde la clase Main en los dos informes
 
 ## 📁 Data/
 Espacio dedicado a almacenar los activos de datos que sirven de base para el desarrollo del Bloque B. Incluye los archivos de datos en bruto (datasets) requeridos para los experimentos, así como el documento con la descripción detallada de la empresa bajo estudio, sus problemáticas operativas y los objetivos de negocio planteados.
