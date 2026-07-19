@@ -9,15 +9,15 @@
 A continuación se detalla la organización de las carpetas del proyecto para facilitar la navegación y evaluación:
 
 🛠️ Navegación y Contenido del Proyecto
-📁 java/
+📁 ##java/
 Esta carpeta centraliza el código fuente desarrollado en Java correspondiente a los informes teóricos del Bloque A. Está subdividida en dos proyectos específicos:
 informe1_busqueda/: Contiene la implementación en Java de los algoritmos de búsqueda y las estructuras de datos necesarias para resolver los estados del rompecabezas 8-puzzle.
 informe2_juegos/: Aloja el código del motor de juego para Tic-Tac-Toe (Tres en raya) utilizando el algoritmo MinMax, incluyendo la versión base y la optimización con poda alfa-beta para evaluar la eficiencia de corte de estados.
 
-📁 data/
+📁 ##data/
 Espacio dedicado a almacenar los activos de datos que sirven de base para el desarrollo del Bloque B. Incluye los archivos de datos en bruto (datasets) requeridos para los experimentos, así como el documento con la descripción detallada de la empresa bajo estudio, sus problemáticas operativas y los objetivos de negocio planteados.
 
-📁 notebooks/
+📁 ##notebooks/
 Contiene los cuadernos de trabajo interactivos (Jupyter Notebooks) con todo el código estructurado y ejecutado para los informes 3, 4, 5 y 6 del Bloque B. En ellos se documenta el flujo completo de ciencia de datos, desde el análisis exploratorio (EDA), la limpieza de datos, hasta el entrenamiento y evaluación de los modelos de inteligencia artificial.
 
 📁 prompts/
